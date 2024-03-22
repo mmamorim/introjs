@@ -15,7 +15,10 @@ console.log("teste teste");
 console.log(`alguma coisa aqui`);
 ```
 
-Como funciona o map, find, findIndex, etc... de um array?
+### Como funciona o map, find, findIndex, etc... de um array?
+
+sobre Callbacks: ver [callback.js](callback.js)
+sobre vetores: ver [vetores.js](vetores.js)
 
 ### Por que existe o operador === ?
 
