@@ -1,5 +1,7 @@
 # Introdução ao Javascript
 
+https://github.com/aulassaojudas/2024_1_01_Sistemas_Distribuidos_Quinta_Manha/tree/main
+
 Para imprimir no console:
 
 ```javascript
@@ -31,7 +33,7 @@ retorna ```javascript false ```
 
 ### Destruturação de objetos em variável
 
-ver (desestrutracao.js)[./desestrutracao.js]
+ver (desestrutracao.js)[!./desestrutracao.js]
 
 ### como usar esse uuidv4 ???
 
