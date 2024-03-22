@@ -15,7 +15,7 @@ console.log(`alguma coisa aqui`);
 
 Como funciona o map, find, findIndex, etc... de um array?
 
-Por que existe o operador === ?
+### Por que existe o operador === ?
 
 comparando só valor
 ```javascript
