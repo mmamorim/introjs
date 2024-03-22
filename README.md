@@ -33,7 +33,7 @@ retorna ```javascript false ```
 
 ### Destruturação de objetos em variável
 
-ver [desestrutracao.js](./desestrutracao.js)
+ver [desestrutracao.js](desestruturacao.js)
 
 ### como usar esse uuidv4 ???
 
