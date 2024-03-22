@@ -29,12 +29,12 @@ comparando valor e tipo
 ```
 retorna ```javascript false ```
 
-Destruturação de objetos em variável
+### Destruturação de objetos em variável
 
-como usar esse uuidv4 ???
+ver (desestrutracao.js)[./desestrutracao.js]
 
-import x require ????
+### como usar esse uuidv4 ???
 
-Objetos
+### import x require ????
 
-Como lidar com o assíncrono? callback e promessas?
+### Como lidar com o assíncrono? callback e promessas?
